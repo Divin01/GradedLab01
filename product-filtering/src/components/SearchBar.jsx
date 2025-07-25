@@ -12,7 +12,7 @@ const SearchBar = ({
   return (
     <div className="search-bar" style={{
       padding: '20px',
-      backgroundColor: '#f5f5f5',
+      backgroundColor: 'aliceblue',
       borderRadius: '5px',
       marginBottom: '20px'
     }}>
